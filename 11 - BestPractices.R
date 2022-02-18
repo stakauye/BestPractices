@@ -1,3 +1,5 @@
+
+skjdhfksjdkweu xckjsd
 N <- 10
 B <- round(rnorm(1, 3, 1), 0)
 D <- round(rnorm(1, 3, 1), 0)
